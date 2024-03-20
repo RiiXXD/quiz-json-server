@@ -1,0 +1,182 @@
+{
+  "results": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which sport is known as 'The Beautiful Game'?",
+      "correct_answer": "Soccer",
+      "incorrect_answers": ["Basketball", "Tennis", "Golf"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the largest planet in our solar system?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Saturn", "Neptune", "Earth"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What does CPU stand for?",
+      "correct_answer": "Central Processing Unit",
+      "incorrect_answers": [
+        "Computer Personal Unit",
+        "Central Processor Unit",
+        "Core Processing Unit"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of Japan?",
+      "correct_answer": "Tokyo",
+      "incorrect_answers": ["Kyoto", "Osaka", "Seoul"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which movie won the Academy Award for Best Picture in 2020?",
+      "correct_answer": "Parasite",
+      "incorrect_answers": ["1917", "Joker", "Once Upon a Time in Hollywood"]
+    },
+    {
+      "category": "Science: Mathematics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the value of pi (π) to two decimal places?",
+      "correct_answer": "3.14",
+      "incorrect_answers": ["3.12", "3.16", "3.18"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "correct_answer": "France",
+      "incorrect_answers": ["Croatia", "Brazil", "Argentina"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the chemical symbol for gold?",
+      "correct_answer": "Au",
+      "incorrect_answers": ["Ag", "Fe", "Cu"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is known as the King of Pop?",
+      "correct_answer": "Michael Jackson",
+      "incorrect_answers": ["Elvis Presley", "Prince", "David Bowie"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the creator of the Linux kernel?",
+      "correct_answer": "Linus Torvalds",
+      "incorrect_answers": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which continent is known as the Land of White Elephants?",
+      "correct_answer": "Asia",
+      "incorrect_answers": ["Africa", "Europe", "North America"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who directed the movie 'Inception'?",
+      "correct_answer": "Christopher Nolan",
+      "incorrect_answers": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the chemical symbol for oxygen?",
+      "correct_answer": "O2",
+      "incorrect_answers": ["H2O", "CO2", "N2"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which band released the album 'Rumours' in 1977?",
+      "correct_answer": "Fleetwood Mac",
+      "incorrect_answers": ["Led Zeppelin", "The Beatles", "Pink Floyd"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was Google founded?",
+      "correct_answer": "1998",
+      "incorrect_answers": ["1996", "2000", "2002"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which sport can you perform a 'slam dunk'?",
+      "correct_answer": "Basketball",
+      "incorrect_answers": ["Football", "Baseball", "Tennis"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of Australia?",
+      "correct_answer": "Canberra",
+      "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played the role of Neo in 'The Matrix'?",
+      "correct_answer": "Keanu Reeves",
+      "incorrect_answers": ["Tom Cruise", "Will Smith", "Brad Pitt"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of Spain?",
+      "correct_answer": "Madrid",
+      "incorrect_answers": ["Barcelona", "Valencia", "Seville"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which artist released the album 'Thriller' in 1982?",
+      "correct_answer": "Michael Jackson",
+      "incorrect_answers": ["Prince", "Madonna", "David Bowie"]
+    }
+  ],
+  "users": [
+    { "id": 1, "name": "John", "score": 80 },
+    { "id": 2, "name": "Alice", "score": 90 },
+    { "id": 3, "name": "Bob", "score": 75 }
+  ],
+  "leaderboard": [
+    { "userId": 2, "score": 90 },
+    { "userId": 1, "score": 80 },
+    { "userId": 3, "score": 75 }
+  ]
+}
